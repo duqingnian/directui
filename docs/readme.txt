@@ -1,6 +1,11 @@
+----------------------------
+DuiLib基于DirectUI
+----------------------------
+这个代码出自：\nt5src\nt5src\Source\XPSP1\NT\windows\advcore\duser\directui
+
+----------------------------
 DirectUI Directory Structure
 ----------------------------
-
 DirectUI
   Docs
   Engine
